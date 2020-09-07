@@ -1,6 +1,6 @@
 # Trabalho Acadêmico de Graduação Ciência de Dados
 
-Repositórios dos exercícios do curso de Ciência de Dados
+### Repositórios dos exercícios do curso de Ciência de Dados
 
 Esse notebook trabalha com os dados públicos da Mega-Sena, disponíveis no Portal de Loterias da Caixa Econômica Federal. Para baixar o arquivo atualizado basta clicar neste link.
 
@@ -12,6 +12,8 @@ Para executar esse notebook com todas as bibliotecas necessárias, basta baixar 
 
 OBS: Se ao executar este notebook aparecer um erro Notebook validation: failed The save operation succeeded, but the notebook does not appear to be valid. The validation error was: bastar instalar esta atualização no prompt de comando do Anaconda pip install --upgrade nbformat ou executar no próprio Jupyter Notebook o comando !pip install --upgrade nbformat
 
+### O que será analisado neste notebook
+
 - As 5 maiores arrecadações da Mega Sena representado por um gráfico de barras.
 - As 5 menores arrecadações da Mega Sena representado por um gráfico de barras.
 - Os 5 maiores prêmios pagos pela Mega Sena representado por um gráfico de barras.
@@ -22,7 +24,7 @@ OBS: Se ao executar este notebook aparecer um erro Notebook validation: failed T
 - Quantidade de ganhadores da Mega Sena dividido por estados representado por um gráfico treemap e um gráfico sunburst.
 - Este conjunto de dados tem informações de todas as rodadas da loteria do Brasil que ocorreram desde 1996/03/11 (a primeira) até o número da loteria 2262 que ocorreu em 20/05/2020.
 
-O conteúdo desse conjunto de dados é basicamente:
+### O conteúdo desse conjunto de dados é basicamente:
 
 - Id: identificação.
 - Concurso: O número da loteria
