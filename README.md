@@ -1,4 +1,5 @@
-# Faculdade
+# Trabalho Acadêmico de Graduação Ciência de Dados
+
 Repositórios dos exercícios do curso de Ciência de Dados
 
 Esse notebook trabalha com os dados públicos da Mega-Sena, disponíveis no Portal de Loterias da Caixa Econômica Federal. Para baixar o arquivo atualizado basta clicar neste link.
