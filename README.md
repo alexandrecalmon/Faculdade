@@ -1,6 +1,6 @@
 # Trabalho Acadêmico de Graduação Ciência de Dados
 
-### Assistir ao vídeo de Apresentação 
+### Assistir ao vídeo de apresentação 
 
 [![Vídeo de Apresentação do Trabalho Acadêmico de Ciência de Dados](http://img.youtube.com/vi/xN9jOIfakVI/0.jpg)](http://www.youtube.com/watch?v=xN9jOIfakVI "Vídeo de Apresentação do Trabalho Acadêmico de Ciência de Dados")
 
