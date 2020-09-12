@@ -1,6 +1,6 @@
 # Trabalho Acadêmico de Graduação Ciência de Dados
 
-[Youtube](https://www.youtube.com/watch?v=xN9jOIfakVI&feature=youtu.be)
+[Youtube](https://www.youtube.com/watch?v=xN9jOIfakVI&feature=youtu.be/?sub_confirmation=1)
 
 
 ### Repositórios dos exercícios do curso de Ciência de Dados
